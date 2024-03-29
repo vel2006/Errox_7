@@ -2,6 +2,7 @@
 
 # Errox_7
 Errox_7 is a collection of Bash files (.sh) which are used to make up a one time romote access program for Linux distributions. Current supported client side flavors are: Ubuntu
+Errox_7 is designed to be as light weight on the client side as possible, while still maintaining the core properties needed for software of it's type
 
 Errox_7.sh:
   Errox_7.sh is the client side file.
