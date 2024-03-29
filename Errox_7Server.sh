@@ -73,8 +73,6 @@ if [[ $# == 0 ]]; then
 			Listen
 			break
 		elif [[ $choice == 2 ]]; then
-			echo "Enter the command you want to use:"
-			read -p ">" command
 			Command $command
 			break
 		elif [[ $choice == 3 ]]; then
