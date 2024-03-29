@@ -3,7 +3,7 @@
 Listen()
 {
 	echo "Listening for connections..."
-	#LISTENING ON PORT 443 FOR ANY INCOMING DATA#
+	#LISTENING ON PORT 80 FOR ANY INCOMING DATA#
 	local data=$(sudo nc -l -p 80 | sed 's|/.*||')
 	echo "Data yoinked :3"
 	echo "$data"
