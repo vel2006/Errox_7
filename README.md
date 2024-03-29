@@ -1,4 +1,4 @@
-# ERROX_7 IS NOT DESIGNED TO BE MALWARE, IT IS DESIGNED TO BE FOR REMOTE MONITORING FOR NETWORK ADMINS
+# ERROX_7 IS NOT DESIGNED TO BE MALWARE, IT IS DESIGNED TO BE FOR REMOTE MONITORING BY NETWORK ADMINS
 
 # Errox_7
 Errox_7 is a collection of Bash files (.sh) which are used to make up a one time romote access program for Linux distributions. Current supported client side flavors are: Ubuntu
