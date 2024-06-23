@@ -18,7 +18,8 @@ Errox_7Server.sh:
   2) Extracts the incoming data and converts it into an ip address then adding the data to a file (only one at a time can be within it, working on expanding to a .csv file)
   3) Waiting so the latency from client to server can be solved
   4) Sends a confirmation message for the client to start listening for any commands
-  Command:
+
+Command:
   1) Takes in the wanted command
   2) Checks the clients.txt file, if it doesnt exist it will end and prompt for using Listen first
   3) Formats the clients array (left in for the update having a clients.csv file instead)
